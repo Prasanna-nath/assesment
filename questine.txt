@@ -1,0 +1,6 @@
+Create a node js app, with the following instruction,
+User table with field, user name, email, password, date of birth, created at
+Create a node js server
+1. Api for registering user data
+2. User login api
+2. Api for updating user password
